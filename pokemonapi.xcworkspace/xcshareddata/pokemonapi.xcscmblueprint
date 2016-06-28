@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B21C167CFC9A94B3274258DC5272A725342C7790",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0C2E599712B1F88F6EC6D8EF88C0989F2B89D2F5" : 0,
+    "B21C167CFC9A94B3274258DC5272A725342C7790" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3C48D1F3-3F56-4EA7-8809-78D61DE17B22",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0C2E599712B1F88F6EC6D8EF88C0989F2B89D2F5" : "pokedex-by-devslopes\/",
+    "B21C167CFC9A94B3274258DC5272A725342C7790" : "pokemonapi\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pokemonapi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "pokemonapi.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:spentak\/pokedex2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C2E599712B1F88F6EC6D8EF88C0989F2B89D2F5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/COOLPRANSHU\/pokemonapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B21C167CFC9A94B3274258DC5272A725342C7790"
+    }
+  ]
+}
